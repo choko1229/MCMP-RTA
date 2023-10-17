@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Multi-RTA","color":"aqua"},{"text":"を読み込みました。\n"},{"text":"Ver. 1.00","color":"green"}]
